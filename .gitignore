@@ -1,3 +1,5 @@
 *.docx
 # Originales (logos y fotos del equipo): se incrustan optimizados en index.html
 * *.png
+* *.jpg
+* *.jpeg
